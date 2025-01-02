@@ -1,0 +1,1 @@
+<?php require_once('./template/func/func.php')?>
